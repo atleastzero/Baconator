@@ -6,7 +6,7 @@ The Baconator is a CLI tool that uses Colly to help find a wikipedia Bacon index
 
 ## How To
 
-Simply clone this repo and run something like
+Simply clone this repo, build, and run something like
 
 `./baconator -wiki https://en.wikipedia.org/wiki/Kevin_Bacon`
 
